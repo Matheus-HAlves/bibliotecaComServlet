@@ -3,10 +3,11 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Projetos/bibliotecaComServelet/src/java/com/exemplo/biblioteca/servlet/PesquisaLivroServlet.java</file>
-            <file>file:/C:/Projetos/bibliotecaComServelet/src/java/com/exemplo/biblioteca/dao/LivrosDao.java</file>
-            <file>file:/C:/Projetos/bibliotecaComServelet/web/WEB-INF/glassfish-resources.xml</file>
-            <file>file:/C:/Projetos/bibliotecaComServelet/src/java/com/exemplo/biblioteca/servlet/CriarLivroServlet.java</file>
+            <file>file:/C:/Users/Matheus/Documents/NetBeansProjects/bibliotecaComServelet/web/pesquisar-livro.html</file>
+            <file>file:/C:/Users/Matheus/Documents/NetBeansProjects/bibliotecaComServelet/src/java/com/exemplo/biblioteca/dao/LivrosDao.java</file>
+            <file>file:/C:/Users/Matheus/Documents/NetBeansProjects/bibliotecaComServelet/src/java/com/exemplo/biblioteca/entidades/Livro.java</file>
+            <file>file:/C:/Users/Matheus/Documents/NetBeansProjects/bibliotecaComServelet/web/index.html</file>
+            <file>file:/C:/Users/Matheus/Documents/NetBeansProjects/bibliotecaComServelet/src/java/com/exemplo/biblioteca/servlet/PesquisaLivroServlet.java</file>
         </group>
     </open-files>
 </project-private>
